@@ -4,5 +4,6 @@
         <exclude pattern="/apps/warrior/install" />
     </filter>
     <filter root="/apps/sling" />
-    <filter root="/etc/designs/warrior"/>
+    <filter root="/etc/map.dev"/>
+    <filter root="/etc/designs/warrior" />
 </workspaceFilter>
